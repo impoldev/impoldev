@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **contact@impol.dev**
+- 📫 How to reach me **contact@impol.dev or via LinkedIn**
 
 - 📄 Know about my experiences [https://www.impol.dev/PabloOll%C3%A9_EN.pdf](https://www.impol.dev/PabloOll%C3%A9_EN.pdf)
 
