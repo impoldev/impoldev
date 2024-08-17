@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **2 private projects**
 
-- 🌱 I’m currently learning **Sass**
-
 - 👯 I’m looking to collaborate on **frontend or fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://www.impol.dev/](https://www.impol.dev/)
