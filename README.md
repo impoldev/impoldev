@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Pablo Ollé</h1>
 <h3 align="left">A passionate fullstack developer with ❤️ for React & Next.js</h3>
 
-- 🔭 I’m currently working on **2 private projects**
+- 🔭 I’m currently working on **2 private projects**.
 
-- 👯 I’m looking to collaborate on **frontend or fullstack projects**
+- 👯 I’m looking to collaborate on **frontend or fullstack projects**.
 
-- 👨‍💻 My portfolio is available at [https://www.impol.dev/](https://www.impol.dev/)
+- 👨‍💻 My portfolio is available at [https://www.impol.dev/](https://www.impol.dev/).
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, JS, algorithms and data structures**.
 
-- 📫 How to reach me: **contact@impol.dev or via LinkedIn**
+- 📫 How to reach me: **contact@impol.dev or via LinkedIn**.
 
-- 📄 Know about my experiences: [https://www.impol.dev/PabloOll%C3%A9_EN.pdf](https://www.impol.dev/PabloOll%C3%A9_EN.pdf)
+- 📄 My experiences: [https://www.impol.dev/PabloOll%C3%A9_EN.pdf](https://www.impol.dev/PabloOll%C3%A9_EN.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
