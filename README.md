@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend or fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://www.impol.dev/](https://www.impol.dev/)
+- 👨‍💻 My portfolio is available at [https://www.impol.dev/](https://www.impol.dev/)
 
 - 💬 Ask me about **React**
 
