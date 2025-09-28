@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Pablo Ollé</h1>
 
-- 👯 I’m looking to collaborate on **frontend, backend or fullstack projects**.
+- 👯 I’m eager to collaborate on **frontend, backend, or full-stack projects**.
 
 - 👨‍💻 My portfolio is available at [impol.dev](https://www.impol.dev/).
 
