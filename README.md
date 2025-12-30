@@ -6,6 +6,6 @@
 
 - ▶️ Follow me on [YouTube @impoldev](https://www.youtube.com/@impoldev)
 
-- 📫 How to reach me: **contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/)**.
+- 📫 How to reach me: contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/).
 
 - 📄 My experiences and education: [here](https://www.impol.dev/PabloOll%C3%A9_EN.pdf).
