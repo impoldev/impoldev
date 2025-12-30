@@ -8,10 +8,4 @@
 
 - 📫 How to reach me: **contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/)**.
 
-- 📄 My experiences: [here](https://www.impol.dev/PabloOll%C3%A9_EN.pdf).
-
-<h3 align="left">More information:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=impoldev&show_icons=true&theme=dark&locale=en&layout=compact" alt="impoldev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impoldev&show_icons=true&theme=dark&locale=en" alt="impoldev" /></p>
+- 📄 My experiences and education: [here](https://www.impol.dev/PabloOll%C3%A9_EN.pdf).
