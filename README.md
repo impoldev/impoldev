@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/).
 
-- 📄 My experiences and education: [here](https://www.impol.dev/PabloOll%C3%A9_EN.pdf).
+- 📄 My experiences and education: [here](https://www.impol.dev/Pablo_Oll%C3%A9_EN.pdf).
