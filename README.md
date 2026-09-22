@@ -2,7 +2,7 @@
 
 - 👨‍💻 My portfolio is available at [pabloolle.vercel.app](https://pabloolle.vercel.app/).
 
-- ▶️ Follow me on [YouTube @impoldev](https://www.youtube.com/@impoldevdsa)
+- ▶️ Follow me on [YouTube @impoldevdsa](https://www.youtube.com/@impoldevdsa)
 
 - 📫 How to reach me: contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/).
 
