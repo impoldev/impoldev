@@ -1,10 +1,8 @@
 <h1 align="left">Hi 👋, I'm Pablo Ollé</h1>
 
-- 👯 I’m eager to collaborate on **frontend, backend, or full-stack projects**.
+- 👨‍💻 My portfolio is available at [pabloolle.vercel.app](https://pabloolle.vercel.app/].
 
-- 👨‍💻 My portfolio is available at [impol.dev](https://www.impol.dev/).
-
-- ▶️ Follow me on [YouTube @impoldev](https://www.youtube.com/@impoldev)
+- ▶️ Follow me on [YouTube @impoldev](https://www.youtube.com/@impoldevdsa)
 
 - 📫 How to reach me: contact@impol.dev or via [LinkedIn](https://www.linkedin.com/in/pabloolle/).
 
